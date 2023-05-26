@@ -1,7 +1,7 @@
 # Recipe-Guide
 A Recipe App which shows various Recipes based on user search or selected dish types such as dessert, snacks, drinks, main course, breakfast etc.
 
-Recipe details contains various data such as
+Recipe details screen contains various data such as
 * dish summary
 * step wise detailed instructions with ingredients required in each steps using nested recycler view.
 * similar recipes
