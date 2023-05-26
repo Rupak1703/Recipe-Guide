@@ -11,6 +11,7 @@ Project uses
 * Spoonacular API
 * Retrofit
 * Hilt dependency injection
+* coroutines
 
 # App Preview
 
