@@ -39,8 +39,7 @@ Project uses
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 ## Recipe Details Screen
 
