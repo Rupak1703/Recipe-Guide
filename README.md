@@ -9,9 +9,9 @@ Recipe details screen contains various data such as
 Project uses
 * MVVM Architecture using kotlin
 * Spoonacular API
-* Retrofit
+* Coroutines
 * Hilt dependency injection
-* coroutines
+* Retrofit
 
 # App Preview
 
