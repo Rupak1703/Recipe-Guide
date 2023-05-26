@@ -15,7 +15,7 @@ Project uses
 
 # App Preview
 
-* Home Screen
+* ## Home Screen
 
 <a href="url"><img src="https://github.com/Rupak1703/Recipe-Guide/assets/121379796/74dee608-94bb-4699-ba69-3162c9dd325d" align="left" height="468" width="248" ></a>
 
@@ -43,7 +43,7 @@ Project uses
 <br>
 
 
-* Recipe Details Screen
+* ## Recipe Details Screen
 
 
 <a href="url"><img src="https://github.com/Rupak1703/Recipe-Guide/assets/121379796/8660a4d9-2038-4a5c-96a9-c1d303e84a83" align="left" height="468" width="248" ></a>
